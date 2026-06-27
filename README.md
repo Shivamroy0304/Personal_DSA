@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shivamroy0304/Personal_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Shivamroy0304/Personal_DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
