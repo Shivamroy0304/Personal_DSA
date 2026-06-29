@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivamroy0304/Personal_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shivamroy0304/Personal_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Hash Table
 |  |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Shivamroy0304/Personal_DSA/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Shivamroy0304/Personal_DSA/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/Shivamroy0304/Personal_DSA/tree/master/0511-game-play-analysis-i) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivamroy0304/Personal_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
