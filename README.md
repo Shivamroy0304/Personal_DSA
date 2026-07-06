@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Shivamroy0304/Personal_DSA/tree/master/0055-jump-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shivamroy0304/Personal_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shivamroy0304/Personal_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shivamroy0304/Personal_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Shivamroy0304/Personal_DSA/tree/master/0055-jump-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shivamroy0304/Personal_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Shivamroy0304/Personal_DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shivamroy0304/Personal_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Shivamroy0304/Personal_DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
