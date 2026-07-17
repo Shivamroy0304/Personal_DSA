@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Shivamroy0304/Personal_DSA/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/Shivamroy0304/Personal_DSA/tree/master/0055-jump-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shivamroy0304/Personal_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Shivamroy0304/Personal_DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shivamroy0304/Personal_DSA/tree/master/3312-sorted-gcd-pair-queries) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Shivamroy0304/Personal_DSA/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
