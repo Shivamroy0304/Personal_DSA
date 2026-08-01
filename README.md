@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Shivamroy0304/Personal_DSA/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/Shivamroy0304/Personal_DSA/tree/master/0055-jump-game) |
+| [0486-predict-the-winner](https://github.com/Shivamroy0304/Personal_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivamroy0304/Personal_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Shivamroy0304/Personal_DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shivamroy0304/Personal_DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Shivamroy0304/Personal_DSA/tree/master/0055-jump-game) |
+| [0486-predict-the-winner](https://github.com/Shivamroy0304/Personal_DSA/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shivamroy0304/Personal_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shivamroy0304/Personal_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivamroy0304/Personal_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Shivamroy0304/Personal_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivamroy0304/Personal_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivamroy0304/Personal_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shivamroy0304/Personal_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -229,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shivamroy0304/Personal_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Shivamroy0304/Personal_DSA/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Shivamroy0304/Personal_DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
